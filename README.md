@@ -1,2 +1,2 @@
-# Face-emotion-recognition
+# Project CNN
 Shape.AI ProjectCNN
